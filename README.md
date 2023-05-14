@@ -1,6 +1,5 @@
-# dice_roller
-
-A new Flutter project.
+# Dice-Roller-FlutterBasics
+This is an introductory project I made while learning Flutter and Dart.  
 
 ## Getting Started
 
